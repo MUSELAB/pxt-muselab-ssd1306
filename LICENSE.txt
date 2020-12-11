@@ -1,4 +1,4 @@
-Copyright (c) Tinkertanker Pte Ltd
+Copyright (c) Muselab Limited
 
 All rights reserved.
 
